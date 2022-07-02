@@ -1,13 +1,13 @@
-## Bess Lee
+# Bess Lee
 
-### About
+## About
 
 Hi, this is Bess Lee's Github profile.
 
 - Email: hi@b3ssle.be
 - Website: https://b3ssle.be
 
-### Tech Skills
+## Tech Stacks
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -16,6 +16,8 @@ Hi, this is Bess Lee's Github profile.
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
