@@ -4,8 +4,8 @@
 
 Hi, this is Bess Lee's Github profile.
 
-![email](https://img.shields.io/badge/Email-hi%40b3ssle.be-red)
-![website](https://img.shields.io/badge/Website-https%3A%2F%2Fb3ssle.be-lightgrey)
+- Email: hi@b3ssle.be
+- Website: https://b3ssle.be
 
 ## Tech Stacks
 
