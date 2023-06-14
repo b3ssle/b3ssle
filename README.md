@@ -22,5 +22,3 @@ Hi, this is Bess Lee's Github profile.
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=b3ssle&show_icons=true&&count_private=true)](https://github.com/b3ssle)
