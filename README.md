@@ -4,9 +4,6 @@
 
 Hi, this is Bess Lee's Github profile.
 
-- Email: hi@b3ssle.be
-- Website: https://b3ssle.be
-
 ## Tech Stacks
 
 - 🌐 &nbsp;
